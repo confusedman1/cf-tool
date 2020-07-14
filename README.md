@@ -1,5 +1,7 @@
 # Codeforces Tool
 
+### Update : The edited code which allows parsing with RCPC tokens is in vendor/github.com/xalanq/cf-tool/
+
 [![Github release](https://img.shields.io/github/release/xalanq/cf-tool.svg)](https://github.com/xalanq/cf-tool/releases)
 [![platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue.svg)](https://github.com/xalanq/cf-tool/releases)
 [![Build Status](https://travis-ci.org/xalanq/cf-tool.svg?branch=master)](https://travis-ci.org/xalanq/cf-tool)
